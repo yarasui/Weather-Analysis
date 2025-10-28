@@ -1,5 +1,5 @@
-# Household-Power-Prediction
-forecasted power usage using regression and IoT data.
+# Weather Analysis
+comparing ML algorithms to predict daily climate patterns.
 weatherHistory is a dataset retrieved from Kaggle via the following link: https://www.kaggle.com/datasets/muthuj7/weather-dataset/data
 the dataset includes various weather features such as wind speed and humidity as well as the corresponding temperature.
 # Outcome
